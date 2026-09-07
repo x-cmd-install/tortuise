@@ -5,7 +5,7 @@ about:
   head: d114fff
   archived: false
   latestVersion: "v0.1.1"
-  collectedAt: 2026-09-07T04:46:25Z
+  collectedAt: 2026-09-07T19:37:11Z
 timeline:
   created: 2026-02-24
   lastCommit: 2026-06-09
@@ -56,7 +56,7 @@ recent:
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 49
+    commit: 0
   last360d:
     since: 2025-09-12
     release: 1
@@ -64,7 +64,7 @@ recent:
     openPR: 0
     closedIssue: 1
     openIssue: 6
-    commit: 114
+    commit: 0
   last720d:
     since: 2024-09-17
     release: 1
@@ -82,7 +82,7 @@ total:
   commit: 114
 ---
 path: /home/runner/.x-repo/github.com/buildoak/tortuise
-collectedAt: 2026-09-07T04:46:29Z
+collectedAt: 2026-09-07T19:37:13Z
 loc:
   Rust:
     code: 12407
@@ -133,7 +133,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T04:46:30+00:00
+  collectedAt: 2026-09-07T19:37:15+00:00
   platform:
     darwin/arm64:
       name:  null
