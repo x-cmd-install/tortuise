@@ -1,0 +1,24 @@
+- repo: aur
+  srcname: tortuise
+  binname: tortuise
+  visiblename: tortuise
+  version: 0.1.1
+  origversion: 0.1.1-1
+  status: unique
+  summary: Gaussian splats in your terminal.
+  maintainers:
+    - anelgarhy@aur
+  licenses:
+    - MIT
+- repo: aur
+  srcname: tortuise-git
+  binname: tortuise-git
+  visiblename: tortuise-git
+  version: 0.1.1.r16.ga3c41d2
+  origversion: 0.1.1.r16.ga3c41d2-1
+  status: rolling
+  summary: Gaussian splats in your terminal.
+  maintainers:
+    - anelgarhy@aur
+  licenses:
+    - MIT
