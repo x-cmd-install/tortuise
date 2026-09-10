@@ -1,24 +1,63 @@
 # tortuise
 
+[中文版本](./README.cn.md)
+
 Gaussian splats in your terminal.
 
-- **Upstream**: <https://github.com/buildoak/tortuise>
-- **Homepage**: <>
-- **Latest release**: `v0.1.1` (2026-02-24)
-- **Last commit**: 2026-06-09
-- **License**: MIT
-- **Stars**: 242 · **Forks**: 9 · **Open issues**: 7 · **Contributors**: 2
+![tortuise](https://repo.x-cmd.io/tortuise.svg)
 
-## Installation
+## Install
 
 ```sh
 x install tortuise
 ```
 
-See <https://x-cmd.com/install/tortuise> for details.
+## Source
 
-## Data
+- **Upstream**: <https://github.com/buildoak/tortuise>
+- **License**: MIT
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
+## Release
 
-_Last regenerated: 2026-09-09T19:10:13Z._
+- **Latest**: `v0.1.1` (2026-02-24)
+- **Last commit**: 2026-06-09
+- **Published**: 2026-02-24T17:01:42Z
+
+## Popularity
+
+- **Stars**: 242 · **Forks**: 9 · **Open issues**: 7 · **Contributors**: 2
+
+## Totals (cumulative)
+
+- **Releases**: 1 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 1 · **Open issues**: 6 · **Commits**: 114
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-15 | 1 | 0 | 0 | 1 | 6 | 114 |
+
+## Code size
+
+Total: **14,781** lines of code across **54** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Rust | 12,407 | 55 | 1,057 | 41 |
+| Python | 851 | 33 | 200 | 3 |
+| Metal | 834 | 98 | 146 | 6 |
+| Sh | 515 | 39 | 94 | 3 |
+| Json | 145 | 0 | 0 | 1 |
+
+## Improve this data
+
+Install metadata for tortuise lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `tortuise` is missing, out of date, or installs incorrectly, please open an issue or PR there:
+
+- **Open an issue**: <https://github.com/x-cmd/install/issues/new>
+- **Edit the package entry**: <https://github.com/x-cmd/edit/main/tortuise.yml> (or whichever path the index uses)
+
+The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
+
+_Snapshot: `data/card/260910.yml` · 2026-09-10T04:48:57Z._
