@@ -12,6 +12,18 @@ Gaussian splats in your terminal.
 x install tortuise
 ```
 
+## Code insight
+
+Total: **14,781** lines of code across **54** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Rust | 12,407 | 55 | 1,057 | 41 |
+| Python | 851 | 33 | 200 | 3 |
+| Metal | 834 | 98 | 146 | 6 |
+| Sh | 515 | 39 | 94 | 3 |
+| Json | 145 | 0 | 0 | 1 |
+
 ## Source
 
 - **Upstream**: <https://github.com/buildoak/tortuise>
@@ -35,20 +47,11 @@ x install tortuise
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-14 | 0 | 0 | 0 | 0 | 0 | 49 |
 | 360d | 2025-09-15 | 1 | 0 | 0 | 1 | 6 | 114 |
-
-## Code size
-
-Total: **14,781** lines of code across **54** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Rust | 12,407 | 55 | 1,057 | 41 |
-| Python | 851 | 33 | 200 | 3 |
-| Metal | 834 | 98 | 146 | 6 |
-| Sh | 515 | 39 | 94 | 3 |
-| Json | 145 | 0 | 0 | 1 |
+| last720d | 2024-09-20 | 1 | 0 | 0 | 1 | 6 | 114 |
 
 ## Improve this data
 
@@ -59,4 +62,4 @@ Install metadata for tortuise lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:48:17Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T21:01:29Z._
